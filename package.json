@@ -40,11 +40,11 @@
     "release": "standard-version && npm run docs"
   },
   "dependencies": {
-    "express": "~4.16.2",
+    "express": "~4.21.0",
     "debug": "~3.1.0",
     "compression": "~1.7.2",
     "morgan": "~1.9.0",
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.20.3",
     "@angular/animations": "6.0.0-beta.6",
     "@angular/common": "6.0.0-beta.6",
     "@angular/core": "6.0.0-beta.6",
