@@ -42,8 +42,8 @@
   "dependencies": {
     "express": "~4.16.2",
     "debug": "~3.1.0",
-    "compression": "~1.7.2",
-    "morgan": "~1.9.0",
+    "compression": "~1.8.1",
+    "morgan": "~1.10.1",
     "body-parser": "~1.18.2",
     "@angular/animations": "6.0.0-beta.6",
     "@angular/common": "6.0.0-beta.6",
